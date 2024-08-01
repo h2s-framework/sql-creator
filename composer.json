@@ -1,0 +1,21 @@
+{
+    "name": "siarkowodor/sql-creator",
+    "description": "Sql creator library",
+    "version": "0.2",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "siarko",
+            "email": "labroqu@gmail.com"
+        }
+    ],
+    "require": {
+        "siarkowodor/h2s-utils": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Siarko\\SqlCreator\\": "src/"
+        }
+    }
+}
