@@ -1,7 +1,6 @@
 {
     "name": "h2sf/sql-creator",
     "description": "Sql creator library",
-    "version": "0.2",
     "license": "MIT",
     "type": "library",
     "authors": [
